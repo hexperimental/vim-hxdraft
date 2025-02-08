@@ -1,0 +1,9 @@
+*hxdraft* plugin documentation
+
+Introduction:
+  The xdraft plugin allows you to send the content of the current buffer to a shell script.
+  You can extend this plugin with more functions as needed.
+
+Commands:
+  :hxSend
+    Sends the current file content to the shell script defined in the plugin.
