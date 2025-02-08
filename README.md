@@ -1,5 +1,6 @@
 # hxdraft Vim Plugin
 
+**This is work in progress and its not ready yet**
 This is a simple Vim plugin that allows you to send the content of the current buffer to a shell script. You can easily extend this plugin with more functions.
 
 ## Installation
